@@ -14,23 +14,25 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2275032"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "f5277d9a5faba353e7f61cb7af999ffd"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "1545833550:AAEmBFpnJFjRTsVMbfrm08o81j7YfEwdHpo"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "CHAT ID: -414982902
+USER ID: 1093705509"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "CHAT ID: 1093705509
+USER ID: 1093705509"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
@@ -72,7 +74,7 @@
       "required": false
     },
     "INDEX_LINK": {
-      "description": "Enter your index link:",
+      "description": "https://tpm-index-2.theproman.workers.dev/:",
       "required": false
     },
     "GLEECH_COMMAND": {
@@ -104,11 +106,11 @@
       "required": false
     },
     "DESTINATION_FOLDER": {
-      "description": "Enter your Cloud folder NAME(not ID😅) in which you want to upload/store your files.",
+      "description": "18e3qIEOXjzqXQAJ8GFGCBipqtpa_g2-a",
       "required": false
     },
     "CUSTOM_FILE_NAME": {
-      "description": "fill with name u want to prefix the file name like ur channel username🙊, keep empty for do nothing, but add to ur config vars even without input.",
+      "description": "[FromTPM]",
       "required": false
     }
   },
